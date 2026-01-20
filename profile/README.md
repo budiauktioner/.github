@@ -17,5 +17,5 @@ Det ska vara lika enkelt, smidigt och tryggt att köpa begagnad produkt som en n
 - :globe_with_meridians: Web: [Budi.se](https://www.budi.se/)
 - :camera: Instagram: [@budiauktioner](https://www.instagram.com/budiauktioner/)
 - :wave: LinkedIn: [@Budi Auktioner](https://www.linkedin.com/company/budiauktioner)
-- :octocat: GitHub: [@BudiAB](https://github.com/budiauktioner)
+- :octocat: GitHub: [@budiauktioner](https://github.com/budiauktioner)
 - :bird: Twitter: [@budiauktioner](https://twitter.com/budiauktioner)
