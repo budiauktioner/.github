@@ -13,7 +13,7 @@ Det ska vara lika enkelt, smidigt och tryggt att köpa begagnad produkt som en n
 
 - :hammer: BUDI AB, 559246-0421
 - :email: hello@budi.se
-- :office: Linta Gårds väg 5a, Bromma Kyrka, Stockholms Län, Sweden 168 74
+- :office: Linta Gårds väg 5a, Bromma, Stockholms Län, Sweden 168 74
 - :globe_with_meridians: Web: [Budi.se](https://www.budi.se/)
 - :camera: Instagram: [@budiauktioner](https://www.instagram.com/budiauktioner/)
 - :wave: LinkedIn: [@Budi Auktioner](https://www.linkedin.com/company/budiauktioner)
